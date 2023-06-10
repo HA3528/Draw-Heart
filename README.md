@@ -10,6 +10,6 @@
 
 ## Usage:
 
-Just copy the code and run on pyhton IDE 
+Just copy the code and run on python
 
 ## Enjoy
